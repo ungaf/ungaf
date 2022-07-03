@@ -44,4 +44,5 @@ jobs:
           base: ""
           plugin_languages: yes
           plugin_languages_indepth: yes
+          plugin_languages_skipped: ungaf.github.io,
           plugin_languages_details: bytes-size, percentage
